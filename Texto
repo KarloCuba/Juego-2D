@@ -1,1 +1,6 @@
-Es un juego sencillo
+Es un juego sencillo que solo tiene un personaje muy simple que se puede mover en todas las direcciones y tambien saltar, 
+ademas hay un piso y paredes con las que puede interactuar, 
+hay trampas en este caso picos que restan vidas y monedas que se pueden coger,
+hay texto para mostrar las vidas y el score,
+hay animacion en las monedas que giran y tiene sonido,
+todo ello fue lo que se ha enseñado en clase en base a eso hice mi juego simple.
